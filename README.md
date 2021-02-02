@@ -44,3 +44,6 @@ Folder: **requirements/**
 - **Dartz** (Tests).
 - **Intl** (Good functions).
 - **Mockito** (Mock classes).
+
+### Images
+<img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-1.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-2.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-3.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-4.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-5.png" height="600">
