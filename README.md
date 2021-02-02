@@ -1,6 +1,7 @@
 # Documentation of the process of creating this App using TVMaze API Challenge
 
 ## Run the code
+### With Emulator
 - Follow this to start the application in a Emulator (With emulator open):
 1) Clone this repository.
 2) Enter in `tvseries_maze_challenge_clean`  
@@ -11,7 +12,12 @@ flutter clean
 flutter pub get
 flutter run
 ```
-### Tests and Coverage
+- Folder [distribution](https://github.com/raphaelbarbosaqwerty/tvmaze-challenge-app/tree/main/distribution)
+- For emulator you can download from the folder the file `app-debug.apk`.  
+### With Real-Device
+- Folder [distribution](https://github.com/raphaelbarbosaqwerty/tvmaze-challenge-app/tree/main/distribution)
+- For Real device you can download from the folder the file `app-release.apk`.  
+## Tests and Coverage
 - I decided only to do Unit Tests because of the limited time. Widget tests are more complex to do, they spend more time to do.
 - Actually have 57 unit tests and all passing.
 - You can check then just doing this, open your console in app folder root and:
