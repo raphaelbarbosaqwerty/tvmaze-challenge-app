@@ -2,7 +2,7 @@
 - Itens done with check [✔]
 
 ### Flow
-- [✔] Get all series from the API(TVMaze).
+- [✔] Get all series from the API(TVMaze).  
   -> [✔] Series from API by Page limit 250
 - [✔] User access the App and have a List of series.
 - [✔] User can do a simple Search by series Name.
