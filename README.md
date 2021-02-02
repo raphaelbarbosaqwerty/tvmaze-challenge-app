@@ -27,11 +27,17 @@ flutter test
 ## Clean-architecture
 - I decided to use the Clean-dart approach for this project with BDD(TDD). Based on the requirements I received on the PDF file.
 - After receiving the documentation with application flow, I decided to separate in requirements check the folder inside the project.
-Folder: **requirements/**
+Folder: **tvseries_maze_challenge_clean/requirements/**
 - **requirements/bdd.md**
 - **pages/detail_page.md**
 - **pages/home_page.md**
 - **pages/summary_page.md**
+
+### BDD/TDD Way
+- File [BDD](https://github.com/raphaelbarbosaqwerty/tvmaze-challenge-app/blob/main/tvseries_maze_challenge_clean/requirements/bdd.md).  
+- File [SummaryPage](https://github.com/raphaelbarbosaqwerty/tvmaze-challenge-app/blob/main/tvseries_maze_challenge_clean/requirements/pages/summary_page.md).  
+- File [HomePage](https://github.com/raphaelbarbosaqwerty/tvmaze-challenge-app/blob/main/tvseries_maze_challenge_clean/requirements/pages/home_page.md).  
+- File [DetailPage](https://github.com/raphaelbarbosaqwerty/tvmaze-challenge-app/blob/main/tvseries_maze_challenge_clean/requirements/pages/detail_page.md).  
 
 ## Modular approach
 - Used Modular for **Dependency Injection** and his own structure what is based on decoupled and **independent modules**. Each module has their own pages, business logic, and need to be independent of each other existent.
