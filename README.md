@@ -42,7 +42,7 @@ Folder: **tvseries_maze_challenge_clean/requirements/**
 ## Modular approach
 - Used Modular for **Dependency Injection** and his own structure what is based on decoupled and **independent modules**. Each module has their own pages, business logic, and need to be independent of each other existent.
 
-## State Managment (ValueNotifier as RxNotifier)
+## State Management (ValueNotifier as RxNotifier)
 - **ValueNotifier** is native from Flutter. I decided to use it together with **RxNotifier** this brings simple transparency to the ValueNotifier.
 
 ## Design and UI
