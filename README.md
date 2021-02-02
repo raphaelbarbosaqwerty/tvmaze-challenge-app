@@ -3,8 +3,8 @@
 ## Run the code
 - Follow this to start the application in a Emulator (With emulator open):
 1) Clone this repository.
-2) Enter in `tvseries_maze_challenge_clean`
-
+2) Enter in `tvseries_maze_challenge_clean`  
+`Flutter SDK Version: 1.22.5`  
 - Type this commands in the terminal
 ```
 flutter clean
@@ -44,3 +44,6 @@ Folder: **requirements/**
 - **Dartz** (Tests).
 - **Intl** (Good functions).
 - **Mockito** (Mock classes).
+
+### Images
+<img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-1.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-2.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-3.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-4.png" height="600"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/tvmaze-challenge-app/main/images/app-5.png" height="600">
