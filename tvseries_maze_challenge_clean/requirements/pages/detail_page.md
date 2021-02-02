@@ -12,7 +12,7 @@
  - [✔] Days and time during which the series airs
  - [✔] Genres
  - [✔] Summary
- - [✔] List of Episodes separated by season
+ - [✔] List of Episodes separated by season  
   -> [✔]Clickable item (redirect to SummaryPage)
 
 ### Functions
