@@ -1,0 +1,1 @@
+export './additional_informations/additional_informations_widget.dart';
